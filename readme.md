@@ -12,6 +12,7 @@
 4. Выводим результат (функция show):
    Обход: корень → левое → правое, печать каждого значения
 ### тестирование
+<img width="651" height="129" alt="image" src="https://github.com/user-attachments/assets/344d7913-2651-4bc0-b5fc-15fdbc294497" />
 
 
 
@@ -34,3 +35,4 @@
    - Сумма нечетных чисел
    - Сравнить суммы:
 ### тестирование
+<img width="646" height="137" alt="image" src="https://github.com/user-attachments/assets/34c00e96-9d36-4941-b61c-04ed37550838" />
